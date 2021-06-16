@@ -13,8 +13,8 @@ A stack represent a set of skills to form a full stack devloper.
 Some known stacks are:-
 - ***MERN*** :- MongoDB - Express - ReactJS - Node.js
 - ***MEAN*** :- MongoDB - Express - AngularJS - Node.js
-- ***Ruby on Rails***
-- ***Django stack***
+- ***Ruby on Rails***:- JavaScript - Ruby - SQLite - Rails
+- ***Django stack***:- JavaScript - Python - Django - MySQL
 
 Most commonly used stacks are  ***MERN*** and ***MEAN*** as they are all ***Javascript***
 
