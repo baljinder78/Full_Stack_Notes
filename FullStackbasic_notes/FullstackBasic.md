@@ -19,6 +19,6 @@ A stack represent a set of skills to form a full stack devloper.
 
 Most commonly used stacks are  ***MERN*** and ***MEAN*** as they are all ***Javascript***
 
-A full stack devloper should have know the knowlde of ***Frontend***, ***Backend*** and ***Database***.
+A full stack devloper should have  the Knowledge of ***Frontend***, ***Backend*** and ***Database***.
 
 
