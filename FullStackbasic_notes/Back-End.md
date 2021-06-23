@@ -9,9 +9,10 @@ for example if you go to a restaurant the part who will fullfill your need is ki
 Backend is also known as **Server**
 
 Here are some Back-end technologies:
-- Node js
+
+- Node js  
 - Springboot
 - PHP
 - ASP
 
-Backend helps to store and intract with data in **database**
+Backend helps to store and intract with data in **database**.

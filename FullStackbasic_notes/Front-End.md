@@ -6,9 +6,10 @@ In simple language the front end is the part of website which your will see and 
 
 for example if you go to a restaurant the part you will intract with is the design of the restaurant so here the design is the frontend.
 
-Front-end is also is known as **Client side** 
+Front-end is also is known as **Client side**
 
 Here are some Front-End technologies:
+
 - Html
 - CSS
 - Javascript ( js )
