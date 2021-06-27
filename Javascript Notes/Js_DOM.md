@@ -76,7 +76,7 @@ If you want to access any element in an HTML page, you always start with accessi
 
 opration can be done using dom are:
 
-- Finding HTML Elements
+- [Finding HTML Elements](https://github.com/baljinder78/Full_Stack_Notes/blob/main/Javascript%20Notes/js_Finding_HTML_Elements.md)
 - Changing HTML Elements
 - Adding and Deleting Elements
 - [(more...)](https://www.w3schools.com/js/js_htmldom_document.asp)
