@@ -1,4 +1,4 @@
-# Javascript DOM
+# Javascript
 
 fisrt let me tell you a web page consist of 3 things:
 
@@ -16,7 +16,7 @@ The webpage is made up of three languages:
 
 here we will learn about JavaScript
 
-**JavaScript**, often abbreviated as JS, is a programming language. JavaScript is high-level, often just-in-time compiled, and multi-paradigm. It has curly-bracket syntax, dynamic typing, prototype-based object-orientation, and first-class functions.
+>**JavaScript**, often abbreviated as JS, is a programming language. JavaScript is high-level, often just-in-time compiled, and multi-paradigm. It has curly-bracket syntax, dynamic typing, prototype-based object-orientation, and first-class functions.
 
 javascript does not use data type to declar variable.
 
